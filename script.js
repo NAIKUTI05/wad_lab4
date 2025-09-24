@@ -342,13 +342,13 @@ window.addEventListener('DOMContentLoaded', function() {
     // Add a sample student for demonstration
     const sampleStudent = {
         id: 1,
-        firstName: 'John',
-        lastName: 'Doe',
-        email: 'john.doe@example.com',
+        firstName: 'Nambinga',
+        lastName: 'Naikuti',
+        email: 'naikuti05@gmail.com',
         programme: 'Computer Science',
         year: '2',
         interests: ['Web Development', 'Data Analysis'],
-        photo: 'https://placehold.co/200x200/8B4513/ffffff?text=JD'
+        photo: 'https://tse1.mm.bing.net/th/id/OIP._GwgHgaQAkHlCRuO1-W2JQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3'
     };
     
     students.push(sampleStudent);
